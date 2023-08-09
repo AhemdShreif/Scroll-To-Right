@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    height: 5000px;
+}
+.scroller{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 6px;
+    background-color: #0075ff;
+}
